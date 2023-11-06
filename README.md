@@ -23,9 +23,6 @@ https://arxiv.org/abs/2307.15992
 **A Private Watermark for Large Language Models (private_watermark):**  
 https://github.com/THU-BPM/private_watermark  
 https://arxiv.org/abs/2307.16230  
-**Robust Distortion-free Watermarks for Language Models (watermark_2):**  
-https://github.com/jthickstun/watermark  
-https://arxiv.org/abs/2307.15593  
 **Provable Robust Watermarking for AI-Generated Text (Unigram-Watermark):**  
 https://github.com/XuandongZhao/Unigram-Watermark  
 https://arxiv.org/abs/2306.17439  
