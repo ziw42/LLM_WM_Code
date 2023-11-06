@@ -39,7 +39,7 @@ https://arxiv.org/abs/2305.10036
 https://github.com/Kiode/Text_Watermark_Language_Models  
 https://arxiv.org/abs/2305.08883  
 **Protecting Language Generation Models via Invisible Watermarking (Ginsew):**  
-https://github.com/XuandongZhao/DRW  
+https://github.com/XuandongZhao/Ginsew  
 https://arxiv.org/abs/2302.03162  
 **Distillation-Resistant Watermarking for Model Protection in NLP (DRW):**  
 https://github.com/XuandongZhao/DRW  
