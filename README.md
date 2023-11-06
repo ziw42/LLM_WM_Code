@@ -12,7 +12,7 @@ https://arxiv.org/abs/2301.10226
 https://github.com/jthickstun/watermark  
 https://arxiv.org/abs/2307.15593  
 **Watermarking LLMs with Weight Quantization (Quantize-Watermark):**  
-https://github.com/  
+https://github.com/Twilight92z/Quantize-Watermark  
 https://arxiv.org/pdf/2310.11237  
 **A Semantic Invariant Robust Watermark for Large Language Models （Robust_Watermark):**  
 https://github.com/THU-BPM/Robust_Watermark  
