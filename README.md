@@ -6,7 +6,7 @@ https://github.com/hzy312/Awesome-LLM-Watermark
   
 Text Watermark:  
 **A Watermark for Large Language Models (lm-watermarking):**  
-<github.com/jwkirchenbauer/lm-watermarking>  
+https://github.com/jwkirchenbauer/lm-watermarking  
 https://arxiv.org/abs/2301.10226  
 **Robust Distortion-free Watermarks for Language Models (watermark):**  
 https://github.com/jthickstun/watermark  
