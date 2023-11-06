@@ -1,0 +1,10 @@
+benepar
+bert-score
+tqdm
+datasets
+sentence-transformers
+yake
+accelerate
+
+#sentencepiece
+#textattack
